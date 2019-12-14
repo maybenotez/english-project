@@ -9,16 +9,16 @@ Dota2 is a classic,intertesting and popular computer game,and it is also my favo
 
 ---
 ## Topics
+#
 ### 1.history
-
  number|topic
- ---|---
-    1.1| cival war
-    1.2| Lincon
-    1.3| Renaissance
-    1.4| Napoleon Bonaparte
-    1.5| Olympic
-    1.6| Franklin Delano Roosevelt
+---|---
+   1.1| cival war
+   1.2| Lincon
+   1.3| Renaissance
+   1.4| Napoleon Bonaparte
+   1.5| Olympic
+   1.6| Franklin Delano Roosevelt
 ###  2.location
 number|topic
 ---|---
