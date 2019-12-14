@@ -21,7 +21,7 @@ Dota2 is a classic,intertesting and popular computer game,and it is also my favo
     1.6| Franklin Delano Roosevelt
 ###  2.location
 number|topic
----|---|
+---|---
    2.1| London
    2.2| Paris
    2.3| Miami
@@ -33,9 +33,9 @@ number|topic
 ### 3. Movies
 number|topic
 ---|---
-3. 1| the Silence of the Lambs
+ 3.1| the Silence of the Lambs
  3.2| Inception
-3.3| The Shawshank Redemption
+ 3.3| The Shawshank Redemption
  3.4| Scent of a Woman
  3.5| Avatar
  3.6| Schindler's List
